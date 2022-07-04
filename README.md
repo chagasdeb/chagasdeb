@@ -7,6 +7,7 @@
 - 💬 Ask me about data
 - 📫 How to reach me: debye.oliver@gmail.com
 - 😄 Pronouns: she / her
+- 🙃 Stackoverflow is life: https://insights.stackoverflow.com/trends?tags=r%2Cstatistics
 
 <div align="center">
   <a href="https://github.com/chagasdeb">
